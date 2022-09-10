@@ -19,15 +19,17 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/angelina-zhai/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100">
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=AngelinaZhai&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=AngelinaZhai&style=flat&color=blueviolet" alt="Profile View Count" width="100"/>
 
+  
+  
   <h1>
     oh hey! funny seeing you here :eyes:
   </h1>
