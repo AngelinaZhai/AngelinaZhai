@@ -56,8 +56,10 @@ I am an aspiring software developer interested in the interdisciplinary applicat
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Unity" width="40" height="40"/>&nbsp
 </div>
 
+<!--
 ---
 ### :seedling: My Projects:
+-->
 
 ---
 ### :bar_chart: My Stats:
