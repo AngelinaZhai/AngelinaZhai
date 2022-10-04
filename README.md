@@ -70,7 +70,7 @@ I am an aspiring software developer interested in the interdisciplinary applicat
  -->
 <img align="left" src="https://github-readme-stats1-blond.vercel.app/api/?username=AngelinaZhai&include_all_commits=true&count_private=true&theme=radical&show_icons=true&bg_color=0d1117&border_color=edcf45&border_radius=10" width="468"/>
  
-<img align="left" src="https://github-readme-stats1-blond.vercel.app/api/top-langs/?username=AngelinaZhai&layout=compact&&langs_count=10&theme=radical&hide=jupyter%20notebook,ShaderLab&bg_color=0d1117&border_color=edcf45&border_radius=10" width="300" />
+<img align="left" src="https://github-readme-stats1-blond.vercel.app/api/top-langs/?username=AngelinaZhai&layout=compact&&langs_count=10&theme=radical&hide=jupyter%20notebook,ShaderLab,Makefile&bg_color=0d1117&border_color=edcf45&border_radius=10" width="300" />
 
 
 
