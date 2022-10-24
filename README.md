@@ -56,11 +56,11 @@ I am an aspiring software developer interested in the interdisciplinary applicat
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Unity" width="40" height="40"/>&nbsp
 </div>
 
-<!--
 ---
-### :seedling: My Projects:
--->
-
+:seedling: Current Projects:
+* EPAI: Sentiment Analysis of Tweets (AI)
+* UTMIST: OSU Automapping (AI)
+* ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, MATLAB)
 ---
 ### :bar_chart: My Stats:
 
