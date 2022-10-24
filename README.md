@@ -57,7 +57,7 @@ I am an aspiring software developer interested in the interdisciplinary applicat
 </div>
 
 ---
-:seedling: Current Projects:
+### :seedling: Current Projects:
 * EPAI: Sentiment Analysis of Tweets (AI)
 * UTMIST: OSU Automapping (AI)
 * ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, MATLAB)
