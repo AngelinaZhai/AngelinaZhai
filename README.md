@@ -58,8 +58,8 @@ I am an aspiring software developer interested in the interdisciplinary applicat
 
 ---
 ### :seedling: Current Projects:
-* EPAI: Sentiment Analysis of Tweets (AI)
-* UTMIST: OSU Automapping (AI)
+* EPAI: Sentiment Analysis of Tweets (NLP, Tkinker, Python)
+* UTMIST: OSU Automapping (DSP, AI)
 * ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, MATLAB)
 ---
 ### :bar_chart: My Stats:
