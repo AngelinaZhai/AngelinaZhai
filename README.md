@@ -61,6 +61,13 @@ I am an aspiring software developer interested in the interdisciplinary applicat
 * EPAI: Sentiment Analysis of Tweets (NLP, Tkinker, Python)
 * UTMIST: OSU Automapping (DSP, AI)
 * ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, MATLAB)
+* Personal: toonie (Swift)
+
+---
+### 🥰: Past Projects:
+* in:decks (Python, NLP, Cohere) - Hack the North 2022 [demo](https://devpost.com/software/in-decks)
+* Map4Kids (C++, OpenStreetMap, GTK Toolkit) - ECE297 (Software Communication and Design) [demo](https://docs.google.com/presentation/d/10dbarjVSDMrwgs2GDx8Y22EsW-GqcbMg7R54VY95Vrc/edit?usp=sharing)
+* 
 ---
 ### :bar_chart: My Stats:
 
