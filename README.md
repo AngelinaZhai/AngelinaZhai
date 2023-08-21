@@ -58,12 +58,12 @@ Welcome! I am an aspiring software developer interested in the interdisciplinary
 
 ---
 ### :seedling: Current Projects:
-* EPAI Project Lead: Sentiment Analysis of Tweets (NLP, Tkinker, Python)
 * UTMIST Project Developer: OSU Automapping (DSP, AI)
 * Personal: toonie (Swift)
 
 ---
 ### 🥰: Past Projects:
+* EPAI Project Lead: Sentiment Analysis of Tweets (NLP, Tkinker, Python) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
 * Signal Analysis of Spoken Languages (DSP, Python) - ECE446 (Sensory Communications) [(code)](https://github.com/AngelinaZhai/language-dsp) [(final report)](https://github.com/AngelinaZhai/language-dsp/blob/main/Final%20Report.pdf)
 * in:decks (Python, NLP, Cohere) - Hack the North 2022 [(demo)](https://devpost.com/software/in-decks)
 * Map4Kids (C++, OpenStreetMap, GTK Toolkit) - ECE297 (Software Communication and Design) [(demo)](https://docs.google.com/presentation/d/10dbarjVSDMrwgs2GDx8Y22EsW-GqcbMg7R54VY95Vrc/edit?usp=sharing)
