@@ -57,11 +57,6 @@ Welcome! I am an aspiring software developer interested in the interdisciplinary
 </div>
 
 ---
-### :seedling: Current Projects:
-* Personal: Ryme (Python, MIR)
-* Personal: toonie (Swift)
-
----
 ### 🥰: Past Projects:
 * EPAI Project Lead: Sentiment Analysis of Tweets (NLP, Tkinker, Python) [(website)](https://epai-sat.w3spaces.com) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
 * UTMIST Project Developer: OSU Automapping (DSP, AI)
