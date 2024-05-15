@@ -58,6 +58,7 @@ Welcome! I am an aspiring software developer interested in the interdisciplinary
 
 ---
 ### 🥰: Past Projects:
+* TOjam 2024: Marco Polo [(itch.io)](https://vfuzball.itch.io/marco-polo)
 * EPAI Project Lead: Sentiment Analysis of Tweets (NLP, Tkinker, Python) [(website)](https://epai-sat.w3spaces.com) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
 * UTMIST Project Developer: OSU Automapping (DSP, AI)
 * Signal Analysis of Spoken Languages (DSP, Python) - ECE446 (Sensory Communications) [(code)](https://github.com/AngelinaZhai/language-dsp) [(final report)](https://github.com/AngelinaZhai/language-dsp/blob/main/Final%20Report.pdf)
