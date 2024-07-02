@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me:
 
-Welcome! I am an aspiring software developer interested in the interdisciplinary applications of technology. I am currently looking for summer internships and research opportunities. Check out the demos listed in the "Past Projects" section!
+Welcome! I am an aspiring software developer interested in the interdisciplinary applications of technology. Check out the demos listed in the "Past Projects" section!
 
 ---
 
