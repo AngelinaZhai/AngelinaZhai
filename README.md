@@ -46,24 +46,25 @@ Welcome! I am an ECE student interested in the interdisciplinary applications of
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Unity" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 ### 🥰: Past Projects:
-* TOjam 2024: Marco Polo [(itch.io)](https://vfuzball.itch.io/marco-polo)
-* EPAI Project Lead: Sentiment Analysis of Tweets (NLP, Tkinker, Python) [(website)](https://epai-sat.w3spaces.com) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
-* UTMIST Project Developer: OSU Automapping (DSP, AI)
-* Signal Analysis of Spoken Languages (DSP, Python) - ECE446 (Sensory Communications) [(code)](https://github.com/AngelinaZhai/language-dsp) [(final report)](https://github.com/AngelinaZhai/language-dsp/blob/main/Final%20Report.pdf)
-* in:decks (Python, NLP, Cohere) - Hack the North 2022 [(demo)](https://devpost.com/software/in-decks)
-* Map4Kids (C++, OpenStreetMap, GTK Toolkit) - ECE297 (Software Communication and Design) [(demo)](https://docs.google.com/presentation/d/10dbarjVSDMrwgs2GDx8Y22EsW-GqcbMg7R54VY95Vrc/edit?usp=sharing)
+* My Grandma's a Hitman - Lead Programmer [(itch.io)](https://luka-vukmanovic.itch.io/my-grandmas-a-hitman)
+* TOjam 2024: Marco Polo - Developer [(itch.io)](https://vfuzball.itch.io/marco-polo)
+* EPAI: Sentiment Analysis of Tweets (NLP, Tkinker, Python) - Project Lead [(website)](https://epai-sat.w3spaces.com) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
+* UTMIST: OSU Automapping - Project Developer (DSP, AI)
+* ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, Python) [(code)](https://github.com/AngelinaZhai/language-dsp) [(final report)](https://github.com/AngelinaZhai/language-dsp/blob/main/Final%20Report.pdf)
+* Hack the North 2022: in:decks (Python, NLP, Cohere) - Developer [(demo)](https://devpost.com/software/in-decks)
+* ECE297 (Software Communication and Design): Map4Kids (C++, OpenStreetMap, GTK Toolkit) - Developer [(demo)](https://docs.google.com/presentation/d/10dbarjVSDMrwgs2GDx8Y22EsW-GqcbMg7R54VY95Vrc/edit?usp=sharing)
 
 ---
 ### :bar_chart: My Stats:
