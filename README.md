@@ -25,8 +25,11 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100">
     </a>
   </div>
+
+  [(itch.io page)](https://tubblebee.itch.io/)
   
   <img src="https://komarev.com/ghpvc/?username=AngelinaZhai&style=flat&color=blueviolet" alt="Profile View Count" width="100"/>
+
 
   
   
@@ -58,8 +61,9 @@ Welcome! I am an ECE student interested in the interdisciplinary applications of
 
 ---
 ### 🥰: Past Projects:
-* My Grandma's a Hitman - Lead Programmer [(itch.io)](https://luka-vukmanovic.itch.io/my-grandmas-a-hitman)
+* CSC404 (Intro to Game Design): My Grandma's a Hitman - Lead Programmer [(itch.io)](https://luka-vukmanovic.itch.io/my-grandmas-a-hitman)
 * TOjam 2024: Marco Polo - Developer [(itch.io)](https://vfuzball.itch.io/marco-polo)
+* Digital Archaeology Project: 3D Site Reconstruction of Tell Leilan (Unity, ProBuilder) - [(code)](https://github.com/AngelinaZhai/tell-leilan-reconstruction) [(itch.io)](https://tubblebee.itch.io/tell-leilan-reconstruction)
 * EPAI: Sentiment Analysis of Tweets (NLP, Tkinker, Python) - Project Lead [(website)](https://epai-sat.w3spaces.com) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
 * UTMIST: OSU Automapping - Project Developer (DSP, AI)
 * ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, Python) [(code)](https://github.com/AngelinaZhai/language-dsp) [(final report)](https://github.com/AngelinaZhai/language-dsp/blob/main/Final%20Report.pdf)
