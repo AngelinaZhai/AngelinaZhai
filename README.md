@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me:
 
-Welcome! I am an ECE student interested in the interdisciplinary applications of technology. Check out the demos listed in the "Past Projects" section!
+Welcome! Check out the demos listed in the "Past Projects" section!
 
 ---
 
@@ -64,7 +64,6 @@ Welcome! I am an ECE student interested in the interdisciplinary applications of
 * CSC404 (Intro to Game Design): My Grandma's a Hitman - Lead Programmer [(itch.io)](https://luka-vukmanovic.itch.io/my-grandmas-a-hitman)
 * TOjam 2024: Marco Polo - Developer [(itch.io)](https://vfuzball.itch.io/marco-polo)
 * Digital Archaeology Project: 3D Site Reconstruction of Tell Leilan (Unity, ProBuilder) - [(code)](https://github.com/AngelinaZhai/tell-leilan-reconstruction) [(itch.io)](https://tubblebee.itch.io/tell-leilan-reconstruction)
-* EPAI: Sentiment Analysis of Tweets (NLP, Tkinker, Python) - Project Lead [(website)](https://epai-sat.w3spaces.com) [(repo)](https://github.com/AngelinaZhai/epai-sentiment-of-tweets)
 * UTMIST: OSU Automapping - Project Developer (DSP, AI)
 * ECE446 (Sensory Communications): Signal Analysis of Spoken Languages (DSP, Python) [(code)](https://github.com/AngelinaZhai/language-dsp) [(final report)](https://github.com/AngelinaZhai/language-dsp/blob/main/Final%20Report.pdf)
 * Hack the North 2022: in:decks (Python, NLP, Cohere) - Developer [(demo)](https://devpost.com/software/in-decks)
